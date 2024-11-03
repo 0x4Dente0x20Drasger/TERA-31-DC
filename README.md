@@ -33,6 +33,10 @@
 
 + __BOSS HP BAR ICON.__ <br/> 
 ![Gb 7](https://github.com/user-attachments/assets/7511e5b5-e8d3-41fc-b1b8-1e8e9f6398cc)
+
+#### The distance of the camera has been increased.
++ __Longer distorts the image and text when the camera is pulled back.__ <br/> 
+![BG 8](https://github.com/user-attachments/assets/b3833ca2-704b-467e-904d-8e439e32ded4)
 <br/>
 <br/>
 <br/>
