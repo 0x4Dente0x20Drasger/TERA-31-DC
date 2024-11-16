@@ -6,6 +6,8 @@
 > ### Remember!
 > This file must be updated whenever necessary; otherwise, there may be incorrect texts/descriptions and random crashes that could even prevent players from logging into their characters until this file is removed or updated!
 
+# [Click Here to Download](https://github.com/0x4Dente0x20Drasger/TERA-31-DC/releases/)
+
 ### Fixed priest and elementalist skill/buffs texts.
 
 
