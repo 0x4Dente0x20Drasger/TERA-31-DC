@@ -11,10 +11,10 @@
 ### Fixed priest and elementalist skill/buffs texts.
 
 
-+ __SKILL.__ <br/> 
++ __SKILL. (Fixed by Server DEV)__ <br/> 
 ![GB 1](https://github.com/user-attachments/assets/0b213405-b49e-499c-bab4-1a00a9b7c89f)
 
-+ __BUFFs.__ <br/> 
++ __BUFFs. (Fixed by Server DEV)__ <br/> 
 ![GB 2](https://github.com/user-attachments/assets/cbd5c5c3-a445-4199-964e-ce3b77c53f11)
 
 ### Fixed accessories text.
@@ -24,7 +24,7 @@
 
 
 ### Fix boss names not appearing on the new HP bar.
-+ __FANE OF KAPRIMA.__ <br/> 
++ __FANE OF KAPRIMA. (Fixed by Server DEV)__ <br/> 
 ![GB5](https://github.com/user-attachments/assets/ab8b5a92-4f22-44d5-91ff-74529bf45294)
 ![GB6](https://github.com/user-attachments/assets/d947ec23-c9c2-46ff-8329-878c1d1378c1)
 
